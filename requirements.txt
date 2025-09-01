@@ -1,0 +1,6 @@
+autogen-ext[openai]
+autogen-ext[anthropic]
+autogen-agentchat
+python-dotenv
+streamlit
+tiktoken
